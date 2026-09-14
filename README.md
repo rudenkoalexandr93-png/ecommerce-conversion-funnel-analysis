@@ -109,6 +109,8 @@ This makes the early customer journey the main area for further investigation an
 
 ## 📈 Tableau Dashboard
 
+![E-commerce Conversion Dashboard](images/Dashboard%201.png)
+
 The dashboard follows a simple top-to-bottom structure:
 
 **KPI cards → Funnel → Weekly Trend → Segmentation**
@@ -176,6 +178,7 @@ ecommerce-conversion-funnel-analysis/
 ├── tableau/
 │   └── README.md
 ├── images/
+│   ├── Dashboard 1.png
 │   └── README.md
 └── docs/
     └── project_overview.md
